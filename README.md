@@ -1,2 +1,2 @@
-# DataAnalysis-Visualization
-Data Analysis and Visualization Project
+# Data Analysis & Visualization Project
+Analysis and Visualization project using Netflix Movies & TV shows data.
